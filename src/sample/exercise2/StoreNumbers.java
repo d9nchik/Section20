@@ -1,4 +1,4 @@
-package sample.exrecise2;
+package sample.exercise2;
 
 import javafx.application.Application;
 import javafx.geometry.Pos;
@@ -11,7 +11,6 @@ import javafx.scene.layout.HBox;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
 
